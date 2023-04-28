@@ -17,7 +17,7 @@ This repo keeps track of my progress following [Apples's Swift UI Tutorial](http
 
 - [Navigation Stack]((https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-hierarchy)
 ) introduced iOS 16
-- HStack, VStack, ZStack
+- HStack, VStack
 - MapKit
 - MapMarker
 
