@@ -1,6 +1,6 @@
 # Landmarks
 
-This repo keeps track of my progress following [Apples's Swift UI Tutorial](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views) (resources dated Spring 2021).
+This repo keeps track of my progress following [Apples's Swift UI Tutorial](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
 
 ### Tooling
 
