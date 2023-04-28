@@ -21,6 +21,9 @@ This repo keeps track of my progress following [Apples's Swift UI Tutorial](http
 - MapKit
 - MapMarker
 
+## Preview
+
+<img src="./Landmarks/Utils/Resources/SampleScreen.png"> 
 
 ## Resources
 
@@ -29,3 +32,4 @@ This repo keeps track of my progress following [Apples's Swift UI Tutorial](http
 [Navigation Stack - Apple Guide](https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-hierarchy)
 
 [Navigation Stack - Hacking with Swift](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-programmatic-navigation-in-swiftui)
+
