@@ -19,6 +19,7 @@ This repo keeps track of my progress following [Apples's Swift UI Tutorial](http
 ) introduced iOS 16
 - HStack, VStack, ZStack
 - MapKit
+- MapMarker
 
 
 ## Resources
