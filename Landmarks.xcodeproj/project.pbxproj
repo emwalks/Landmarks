@@ -39,7 +39,7 @@
 
 /* Begin PBXFileReference section */
 		983DDE8B29FC0BD70063DA71 /* NavigationLinkStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationLinkStack.swift; sourceTree = "<group>"; };
-		983DDE9029FC0FB70063DA71 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CircleImage.swift; path = Landmarks/CircleImage.swift; sourceTree = SOURCE_ROOT; };
+		983DDE9029FC0FB70063DA71 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CircleImage.swift; path = Landmarks/CaerBwdy/CircleImage.swift; sourceTree = SOURCE_ROOT; };
 		983DDE9229FC19080063DA71 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		98A58B3429D7418000742113 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		98A58B3729D7418000742113 /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
@@ -86,6 +86,16 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
+		983DDE9429FC22140063DA71 /* CaerBwdy */ = {
+			isa = PBXGroup;
+			children = (
+				98A58B3929D7418000742113 /* ContentView.swift */,
+				983DDE9029FC0FB70063DA71 /* CircleImage.swift */,
+				983DDE9229FC19080063DA71 /* MapView.swift */,
+			);
+			path = CaerBwdy;
+			sourceTree = "<group>";
+		};
 		98A58B2B29D7418000742113 = {
 			isa = PBXGroup;
 			children = (
@@ -111,9 +121,7 @@
 			children = (
 				98A58B3729D7418000742113 /* LandmarksApp.swift */,
 				983DDE8B29FC0BD70063DA71 /* NavigationLinkStack.swift */,
-				98A58B3929D7418000742113 /* ContentView.swift */,
-				983DDE9029FC0FB70063DA71 /* CircleImage.swift */,
-				983DDE9229FC19080063DA71 /* MapView.swift */,
+				983DDE9429FC22140063DA71 /* CaerBwdy */,
 				98A58B6129D741C600742113 /* Utils */,
 			);
 			path = Landmarks;
