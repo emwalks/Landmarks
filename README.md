@@ -23,7 +23,7 @@ This repo keeps track of my progress following [Apples's Swift UI Tutorial](http
 
 ## Preview
 
-<img src="./Landmarks/Utils/Resources/SampleScreen.png"> 
+<img src="./Landmarks/Utils/Resources/SampleScreen.png" width="200"> 
 
 ## Resources
 
